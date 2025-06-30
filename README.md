@@ -39,18 +39,18 @@ From neural spikes to oscillations, I am endlessly captivated by the **mathemati
 
 ---
 
-### 📫 Get in Touch
-
-- 📧 Email: [raminardalani@outlook.com](mailto:raminardalani@outlook.com)
-
----
-
 ### 🌱 Personal Notes
 
 - 🔍 Fascinated by the **mechanisms of nature** and **biological intelligence**, especially through the lens of **mathematics**.
 - 🕊️ Spirituality plays a **deep and grounding role** in my life.
 - ✡️ Enthusiast of **Jewish language and culture** — their depth always amazes me.
 - 📜 Late-night poetry reading: sometimes a joy, sometimes a remedy.
+
+---
+
+### 📫 Get in Touch
+
+- 📧 Email: [raminardalani@outlook.com](mailto:raminardalani@outlook.com)
 
 ---
 
