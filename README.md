@@ -5,11 +5,21 @@ My curiosity lies at the intersection of **neuroscience**, **mathematics**, and 
 
 ---
 
-### 🛠️ Technical Skills
+### 🧰 Skills
+
+#### 🛠️ Technical Skills
 
 - 💻 Programming: `Python`, `MATLAB`
-- 🧪 Scientific computing & data analysis
-- 🧠 Neural systems & brain-inspired models
+- 🔬 Biological Techniques: `Cell culture`, `Rodent handling`, `Animal injections`
+- 🧠 Neural simulation & modeling (spiking dynamics, computational abstractions)
+- 📊 Scientific computing, data analysis, and visualization
+
+#### 🧠 Soft Skills
+
+- 🤝 Team collaboration  
+- 🧘 Patience & perseverance  
+- 🧭 Scientific curiosity  
+- 🔄 Adaptability & open-mindedness
 
 ---
 
@@ -19,6 +29,13 @@ I’m deeply fascinated by the rich interplay between **systems neuroscience**, 
 
 🐙 I'm especially intrigued by the neural architectures of animals — particularly cephalopods like the **octopus** — and how their behaviors emerge from complex biological systems.  
 Using **mathematical frameworks** and **experimental biology** to uncover these mechanisms is more than a scientific pursuit for me — it's a **lifelong source of joy and curiosity**.
+
+---
+
+### 🌊 Signals & Sensations
+
+Waves and signals are more than just tools — they are languages spoken by the brain and nature alike.  
+From neural spikes to oscillations, I am endlessly captivated by the **mathematical beauty of signals** and their role in encoding meaning, perception, and communication.
 
 ---
 
