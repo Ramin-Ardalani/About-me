@@ -10,7 +10,7 @@ My curiosity lies at the intersection of **neuroscience**, **mathematics**, and 
 #### 🛠️ Technical Skills
 
 - 💻 Programming: `Python`, `MATLAB`
-- 🔬 Biological Techniques: `Cell culture`, `Rodent handling`, `Animal injections`
+- 🧪 Biological Techniques: `Cell culture`, `Rodent handling`, `Animal injections`
 - 🧠 Neural simulation & modeling (spiking dynamics, computational abstractions)
 - 📊 Scientific computing, data analysis, and visualization
 
