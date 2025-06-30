@@ -13,6 +13,15 @@ My curiosity lies at the intersection of **neuroscience**, **mathematics**, and 
 
 ---
 
+### 🔬 Scientific Curiosities
+
+I’m deeply fascinated by the rich interplay between **systems neuroscience**, **neuroethology**, and **computational neuroscience** — not as isolated fields, but as an interconnected pathway to understanding the brain.
+
+🐙 I'm especially intrigued by the neural architectures of animals — particularly cephalopods like the **octopus** — and how their behaviors emerge from complex biological systems.  
+Using **mathematical frameworks** and **experimental biology** to uncover these mechanisms is more than a scientific pursuit for me — it's a **lifelong source of joy and curiosity**.
+
+---
+
 ### 📫 Get in Touch
 
 - 📧 Email: [raminardalani@outlook.com](mailto:raminardalani@outlook.com)
